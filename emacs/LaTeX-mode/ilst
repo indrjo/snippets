@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: inline listing
+# key: ilst
+# --
+\lstinline£$1£$0

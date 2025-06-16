@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: commutative diagrams with TikZcd
+# key: cd
+# --
+\begin{tikzcd}
+$1
+\end{tikzcd}$0

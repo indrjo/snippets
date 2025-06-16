@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: display equations
+# key: dm
+# --
+\[
+`(make-string (LaTeX-indent-tabular) ? )`$1
+\]$0

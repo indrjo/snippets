@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: definition environment
+# key: dfn
+# --
+\begin{definition}
+  $0
+\end{definition}

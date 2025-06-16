@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rightarrow
+# key: tto
+# condition: 'auto
+# --
+\Rightarrow

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: exercise environment
+# key: exr
+# --
+\begin{exercise}
+  $0
+\end{exercise}

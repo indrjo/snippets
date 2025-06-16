@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: recall environment
+# key: rcl
+# --
+\begin{recall}
+  $0
+\end{recall}

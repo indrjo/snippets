@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: integer numbers
+# key: zz
+# --
+\mathbb{Z}

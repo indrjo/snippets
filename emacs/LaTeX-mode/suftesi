@@ -1,0 +1,23 @@
+# -*- mode: snippet -*-
+# name: personal template of suftesi documents
+# key: suf
+# --
+\documentclass[${1:structure=article}]{suftesi}
+
+\usepackage[no-math]{fontspec}
+\setmainfont{Linux Libertine O}
+\setmonofont{Cascadia Code PL}
+\usepackage{libertinust1math}
+\usepackage{microtype}
+
+\title{$2}
+\author{$3}
+\date{${4:\today}}
+
+\begin{document}
+
+\maketitle
+
+$0
+
+\end{document}

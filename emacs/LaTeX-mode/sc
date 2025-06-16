@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sc
+# key: sc
+# --
+{\sc $1}$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rational numbers
+# key: qq
+# --
+\mathbb{Q}

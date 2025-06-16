@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: corollary environment
+# key: crl
+# --
+\begin{corollary}
+  $0
+\end{corollary}
